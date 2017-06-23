@@ -1,0 +1,7 @@
+C:\Users\anderson.barbosa\documents\visual studio 2013\Projects\Jokenpo\DAL\bin\Debug\DAL.dll
+C:\Users\anderson.barbosa\documents\visual studio 2013\Projects\Jokenpo\DAL\bin\Debug\DAL.pdb
+C:\Users\anderson.barbosa\documents\visual studio 2013\Projects\Jokenpo\DAL\bin\Debug\Entidades.dll
+C:\Users\anderson.barbosa\documents\visual studio 2013\Projects\Jokenpo\DAL\bin\Debug\Entidades.pdb
+C:\Users\anderson.barbosa\documents\visual studio 2013\Projects\Jokenpo\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\anderson.barbosa\documents\visual studio 2013\Projects\Jokenpo\DAL\obj\Debug\DAL.dll
+C:\Users\anderson.barbosa\documents\visual studio 2013\Projects\Jokenpo\DAL\obj\Debug\DAL.pdb

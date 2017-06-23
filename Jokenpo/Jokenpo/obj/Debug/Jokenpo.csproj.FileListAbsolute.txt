@@ -1,0 +1,10 @@
+C:\Users\anderson.barbosa\documents\visual studio 2013\Projects\Jokenpo\Jokenpo\bin\Jokenpo.dll.config
+C:\Users\anderson.barbosa\documents\visual studio 2013\Projects\Jokenpo\Jokenpo\bin\Jokenpo.dll
+C:\Users\anderson.barbosa\documents\visual studio 2013\Projects\Jokenpo\Jokenpo\bin\Jokenpo.pdb
+C:\Users\anderson.barbosa\documents\visual studio 2013\Projects\Jokenpo\Jokenpo\bin\BLL.dll
+C:\Users\anderson.barbosa\documents\visual studio 2013\Projects\Jokenpo\Jokenpo\bin\Entidades.dll
+C:\Users\anderson.barbosa\documents\visual studio 2013\Projects\Jokenpo\Jokenpo\bin\BLL.pdb
+C:\Users\anderson.barbosa\documents\visual studio 2013\Projects\Jokenpo\Jokenpo\bin\Entidades.pdb
+C:\Users\anderson.barbosa\documents\visual studio 2013\Projects\Jokenpo\Jokenpo\obj\Debug\Jokenpo.csprojResolveAssemblyReference.cache
+C:\Users\anderson.barbosa\documents\visual studio 2013\Projects\Jokenpo\Jokenpo\obj\Debug\Jokenpo.dll
+C:\Users\anderson.barbosa\documents\visual studio 2013\Projects\Jokenpo\Jokenpo\obj\Debug\Jokenpo.pdb

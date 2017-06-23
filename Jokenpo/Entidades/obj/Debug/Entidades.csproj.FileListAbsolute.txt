@@ -1,0 +1,5 @@
+C:\Users\anderson.barbosa\documents\visual studio 2013\Projects\Jokenpo\Entidades\bin\Debug\Entidades.dll
+C:\Users\anderson.barbosa\documents\visual studio 2013\Projects\Jokenpo\Entidades\bin\Debug\Entidades.pdb
+C:\Users\anderson.barbosa\documents\visual studio 2013\Projects\Jokenpo\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\anderson.barbosa\documents\visual studio 2013\Projects\Jokenpo\Entidades\obj\Debug\Entidades.dll
+C:\Users\anderson.barbosa\documents\visual studio 2013\Projects\Jokenpo\Entidades\obj\Debug\Entidades.pdb
